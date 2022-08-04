@@ -1,0 +1,182 @@
+{
+    "main": {
+        "name": "NallaiyaSamy P",
+        "shortname": "NallaiyaSamy P",
+        "occupation": "Developer / Programmer / Engineer",
+        "description": "Eat, sleep, code, repeat.",
+        "yearofexperience": "01",
+        "age": "25",
+        "designation": "A Full Stack Developer",
+        "image": "/images/photo.png",
+        "fullimage": "/images/myphoto1.jpg",
+        "bio": "Hi there! I have been very passionate about computers and programming since my university life. I dream to be an expert software engineer so that I can build professional and useful software that has business value. I am looking for a junior software engineer position in a reputed software company that can help me to achieve my goal.",
+        "contactmessage": "Get in touch with me to to build any software for your business.!",
+        "email": "pnsamy220@gmail.com",
+        "phone": "+91 9080276535",
+       
+        "address": {
+            "street": "Kulalar street",
+            "city": "Tenkasi",
+            "state": "Tamilnadu",
+            "zip": ""
+        },
+        "quotes1": {
+            "sectiontitle": "My resume",
+            "title": "I Would Love to make your Ideas real",
+            "description": "I believe knowledge is the true strength and experience is the path to attain it. I love graphic design and photography and have been working on my portfolio. You can download my resume in order to learn the details of my professional life as a designer and photographer. Contact me and we will discuss your projects!"
+        },
+        "quotes2": {
+            "sectiontitle": "",
+            "title": "I can give your business a new creative start right away! Hire me for your Awesome project",
+            "description": "A person with great teamwork capability. Endlessly improving and aiming for perfection at work. I prefer final quality over the quantity in work. I am a friendly person who can engage in teamwork to reach the common goal of the company"
+        },
+        "workabout": {
+            "completedproject": "",
+            "inprogressproject": "",
+            "awardrecived": "",
+            "happyclinet": ""
+        },
+        "resumedownload": "https://drive.google.com/file/d/1Ut8nJT_IYNz62VwZNsrMgZ4KUoryiQ6k/view?usp=drivesdk",
+        "social": [
+            {
+                "name": "linkedin",
+                "url": "https://www.linkedin.com/in/nallaiya-samy-573b17218/",
+                "className": "fa fa-linkedin"
+            }
+        ]
+    },
+    "resume": {
+        "skillmessage": "My Programming Language Proficiency",
+        "education": [{
+            "school": "G.VENKATASWAMY NAIDU COLLEGE, KOVILPATTI",
+            "degree": "BSC,MSC - Information Technology",
+            "graduated": "July 2015- March 2020",
+            "description": "Graduated with Honours"
+        },
+        {
+            "school": "GN Government Higher Secondary School",
+            "degree": "SSLC and HSC",
+            "graduated": "April 2013 and April 2015",
+            "description": "Passed out with flying colors"
+        }
+    ],
+        "work": [{
+            "company": "Thinroot Software , Bangalore",
+            "title": "Full Stack Developer",
+            "years": "Jan 2022 - May 2022",
+            "description": "Developing some userfriendly and best software. Technology worked with: Angular, Angular Material,ReactNative, PrimeNG , NodeJS, SQL, HTML, CSS"
+        },
+        {
+            "company": "ThinkBig Software Solutions, Chennai.",
+            "title": "React Native Developer",
+            "years": "May 2022 - Jul 2022",
+            "description": "Using React Native, I design and develop user interface components for JavaScript-based online and mobile apps. I can write reusable, effective, as well as scalable JavaScript code and create interchangeable front-end modules"
+        }
+    ],
+        "skillssectiontitle":"Motivated by the Desire to achieve Success",
+        "skillssectiondescription":"Hands-on experience designing, developing & implementing scalable applications and solutions using angular and NodeJS. I can coordinate with development teams and designers to develop web applications that run on numerous platforms.I possess abilities to plan the data and presentation layer of the applications’s front-end",
+        "skills": [{
+                "name": "Angular",
+                "level": "90%"
+            },
+            {
+                "name": "Bootstrap",
+                "level": "60%"
+            },
+            {
+                "name": "Angular Material",
+                "level": "70%"
+            },
+            {
+                "name": "PrimeNG",
+                "level": "50%"
+            },
+            {
+                "name": "NodeJS and MySQL",
+                "level": "95%"
+            },
+            {
+                "name": "React Native",
+                "level": "80%"
+            }
+        ]
+    },
+    "portfolio": {
+        "projects": [{
+                "no":"01",
+                "title": "Templ Online- Informative Website",
+                "description": "It's a classified Wikipedia of all indian temples. Contains Temple Data, information about Pooja, Booking , Iyer Bookings , Travels , Darshan, etc. Responsible for API design and development of RESTful services Worked on building new Angular components for front-end development. Worked MySQL database for This Project Worked Node JS for back-end development",
+                "url": ""
+            },
+            {
+                "no":"02",
+                "title": "SwingZen",
+                "description": "SwingZen is a new app technology utilizing a cutting-edge biomechanical feedback analytics system to track the range of motion of a golfer’s body, club, and swing dynamics from any smartphone. No expensive doppler or sensors needed!",
+                "url": "https://swingzen.com/"
+            }
+           
+        ]
+    },
+    "testimonials": {
+        "testimonials": [{
+                "text": "Working with Nallai was better than expected and we had really high expectations. He is an incredibly talented developer but what really makes him stand out is his work ethic and steady approach. Time after time, and without us asking, he added enhancements and improvements that resulted in a better end product for us and our clients.",
+                "clientname": "Raghul",
+                "clientaddress": "ThinkBig"
+            },
+            {
+                "text": "We have the fortune of working with Nallai on a very regular basis. Every single project is done in a timely fashion and is delivered exactly as is outlined. Beyond that, his development skills and expertise make him an invaluable part of our process. We absolutely offer our highest possible recommendation.",
+                "clientname": "Poornashree",
+                "clientaddress": "ThinkBig"
+            },
+            {
+                "text": "Not only was Nallai’s work on-time and to spec, he pays attention to improve the aesthetics of the site as well as the functionality. Throughout the entire process he is responsive, and willing to work through issues as they arise. It’s obvious he takes tremendous pride in his work, and I wouldn’t hesitate to recommend or work with him again.",
+                "clientname": "SM balaji",
+                "clientaddress": "ThinkBig"
+            }
+        ]
+    },
+    "services": {
+        "services": [
+            {
+                "no": "01",
+                "title": "UI/UX Design",
+                "description": "I take pride in gathering and evaluating user requirements, in collaboration with product managers and engineers. Illustrating design ideas using storyboards, process flows and sitemaps is a skill I possess. I also design graphic user interface elements, like menus, tabs and widgets."
+            },
+            {
+                "no": "02",
+                "title": "Web Design",
+                "description": "I help draw up detailed website specifications and take responsiblility for designing and building the interface, navigation and aesthetic of websites for businesses and clients."
+            },
+            {
+                "no": "03",
+                "title": "AngularJS",
+                "description": "I help in designing and developing the web application using HTML5, CSS3, Bootstrap, JavaScript, React and Node JS. Extensive usage of Bootstrap for layout as well as responsive design and SASS for Responsive design. ."
+            },
+            {
+                "no": "04",
+                "title": "React Native",
+                "description": "I can build UI components of mobile applications. Basically, As a react native developer, I have a great blend of JavaScript and native platform skills. I  work on the frontend part of the app but at the same time, I  possess knowledge of API services and cross-platform compatibility along with the infrastructure of the application for integration."
+            }
+        ]
+    },
+    "awwards": {
+        "awwards": [
+            {
+                "title": "React Native",
+                "description": "I work with React Native as it is an open-source UI software framework created by Meta Platforms, Inc. It is widely used to develop applications for Android, Android TV, tvOS, Web, Windows, iOS, macOS, and UWP. It offers native platform capabilities to build natively-rendered apps for iOS and Android using the same codebase. It is a very popular JavaScript-based framework and is widely used by well-known organizations and new startups around the world such as Instagram, Facebook, Shopify, Tableau, Discord, FlipKart, Skype, Tesla, Uber, Walmart, Salesforce, and many others."
+            },
+            {
+                "title": "HTML, CSS and JavaScript",
+                "description": "I possess expertise in collaborating with web designers to talk about the layout and design of the project.Coding the entire website from beginning to end, Developing front-end web apps and code debugging and Performing usability and performance testing on websites"
+            },
+            {
+                "title": "NodeJS and MySQL",
+                "description": "Build customer-facing UI and back-end services for payment processing administration and management. As a Node.js Developer IT professional , I am someone who is responsible for managing the interchange of data between the server and the users.I possess Knowledge of other server-side programmings such as JavaScript, HTML, CSS, HTML5, and CSS3 and  proper Understanding of AWS is also something i feel is necessary for nodeJS developers for offshore development."
+            },
+            {
+                "title": "Angular and Bootstrap",
+                "description": "As a AngularJS developer, I deem myself to be a highly-skilled JavaScript developer with extensive knowledge of theoretical angular software engineering. I specialize in building Single Page Applications (SPAs) with Angular Java coding. Essentially, I build everything the user sees and hears on a webpage.  I also work with Bootstrap since it is a free front-end framework, with the purpose to make web development faster and easier. It also includes HTML and CSS-based design templates for forms, typography, buttons, navigation, tables, modals, image carousels, and many other components along with other optional JavaScript plugins."
+            }
+        ]
+    }
+}
